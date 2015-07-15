@@ -1,2 +1,3 @@
-# R1
-My First Repository
+My name is Dudling Francois
+
+I love to laugh!
